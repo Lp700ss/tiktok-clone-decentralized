@@ -1,4 +1,4 @@
-{
+{  
   "main": "app/start.ts",
   "scripts": {
     "start": "ts-node app/start.ts"
